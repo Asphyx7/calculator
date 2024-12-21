@@ -13,10 +13,6 @@ const plusMinus = document.querySelector(".plus-minus")
 const dot = document.querySelector(".dot")
 
 
-// document.addEventListener("keydown", event => {
-//     console.log(event.key)
-// })
-
 let newNumber = true
 let sumSwitch = false
 let subSwitch = false
